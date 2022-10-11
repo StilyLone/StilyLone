@@ -10,7 +10,3 @@ I'm Ricardo, a 15 years old web developer from Brazil - PR.
 Skills
 👨‍💻 HTML, CSS, JavaScript
 👁️ CSS, SASS
-
-
-
-      text-align: center;
