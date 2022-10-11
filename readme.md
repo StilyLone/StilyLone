@@ -12,8 +12,5 @@ Skills
 👁️ CSS, SASS
 
 
-<style>
-    body{
+
       text-align: center;
-}
-</style>
